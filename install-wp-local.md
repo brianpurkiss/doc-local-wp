@@ -7,12 +7,12 @@
 * [WP CLI](http://wp-cli.org/)
 
 
-# First time setup
+### First time setup
 
-https://code.tutsplus.com/tutorials/using-laravel-valet-for-wordpress-development--cms-26519
+[Tutorial on what needs to be installed the first time you begin to work locally.](https://code.tutsplus.com/tutorials/using-laravel-valet-for-wordpress-development--cms-26519)
 
 
-# Mac Installation instructions
+# WP CLI Installation instructions
 
 Download WordPress and place it in the previously selected valet directory
 
@@ -28,7 +28,11 @@ Change permalink structure:
 `wp rewrite structure '/%postname%'`
 
 
-# Plugins to install on fresh site
+# [Syncing local with a dev environment.](sync-wp-local-dev.md)
+
+--
+
+### Recommended plugins to install on fresh site
 
 * Theme My Login - Provides a better user experience for the customer
 	`wp plugin install 'Theme My Login'`
@@ -36,12 +40,10 @@ Change permalink structure:
 	`wp plugin install 'Brute Force Login Protection'`
 * Yoast SEO - Useful SEO Improvement
 	`wp plugin install 'Wordpress SEO'`
-* WP Sync DB - for syncing local and dev
-	`wp plugin install 'https://github.com/wp-sync-db/wp-sync-db/archive/master.zip'`
 
 
 
 
-# Relevent links
+# Useful links
 
-https://developer.wordpress.org/cli/commands/
+* [WP CLI Commands](https://developer.wordpress.org/cli/commands/)
