@@ -9,8 +9,7 @@
 
 # First time setup
 
-**todo: first time setup instructions**
-(start valet in desired directory)
+https://code.tutsplus.com/tutorials/using-laravel-valet-for-wordpress-development--cms-26519
 
 
 # Mac Installation instructions
