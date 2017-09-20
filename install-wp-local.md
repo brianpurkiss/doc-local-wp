@@ -40,8 +40,8 @@ Change permalink structure:
 	`wp plugin install 'Brute Force Login Protection'`
 * Yoast SEO - Useful SEO Improvement
 	`wp plugin install 'Wordpress SEO'`
-
-
+* Wordfence - Free security plugin
+	`wp plugin install 'wordfence'`
 
 
 # Useful links
