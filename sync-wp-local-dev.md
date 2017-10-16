@@ -1,4 +1,12 @@
 
+# Goal
+
+Obtain the ability to quickly and easily sync a development environment with multiple local machines for quick development.
+
+
+[Sample WordMove Move File.](sample-movefile.md)
+
+
 **Todo: Which one?**
 
 https://github.com/welaika/wordmove
@@ -15,7 +23,9 @@ https://github.com/wp-sync-db/wp-sync-db-cli
 
 
 
-**Todo :Get Git working for pushing themes to server**
+**Todo: Get Git working for pushing themes to server**
+
+(might not be needed thanks to WordMove)
 
 http://joemaller.com/990/a-web-focused-git-workflow/
 
