@@ -22,7 +22,7 @@ Navigate to the created WordPress directory and run:
 `wp db create`
 
 Install WordPress - choose a local domain, title, username, password, and admin email
-`wp core install --url="your_domain.dev"  --title="Blog Title" --admin_user="theoverlord" --admin_password="enter_your_password" --admin_email="email@email.com"`
+`wp core install --url="your_domain.test"  --title="Blog Title" --admin_user="theoverlord" --admin_password="enter_your_password" --admin_email="email@email.com"`
 
 Change permalink structure:
 `wp rewrite structure '/%postname%'`
