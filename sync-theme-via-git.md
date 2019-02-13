@@ -1,7 +1,14 @@
-# Todo
+# Sync sites via Git:
+
+Use this:
+
+https://github.com/afragen/github-updater
+
+https://github.com/afragen/github-updater/wiki/Usage
+
+(Todo, improve this documentation)
 
 
-http://joemaller.com/908/how-to-install-git-on-a-shared-host/
+# Standardized git documentation
 
-
-http://joemaller.com/990/a-web-focused-git-workflow/
+https://github.com/brianpurkiss/git-process-documentation

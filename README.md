@@ -5,13 +5,11 @@ My workflow for setting up local WordPress websites and syncing with multiple en
 
 [Installing WordPress on a local machine.](install-wp-local.md)
 
+[Create a temporary dev site from your local machine.](temporary-dev-site.md)
+
 [Clone an existing website.](clone-existing-site.md) (be it live site to local, or dev site to launch)
 
-[Todo: Syncing local database with a dev environment.](sync-wp-local-dev.md)
-
-[Todo: Docs on how to sync dev's theme via git.](sync-theme-via-git.md)
-
-[Todo: How to sync the media folder.](sync-media-folder.md)
+[Docs on how to sync dev's theme via git.](sync-theme-via-git.md)
 
 
 # Useful Other
